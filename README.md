@@ -1,4 +1,4 @@
-# MakeMoreV1
+# MakeMore Part 1
 # My Notes on Andrej Karpathy's Makemore Series
 
 Implementation and experiments following Andrej Karpathy's excellent "Makemore" tutorial series  
